@@ -1,1 +1,1 @@
-Data and materials for this project are available on OSF at: https://osf.io/awsyd/overview
+The dataset for this project is available on OSF at: https://osf.io/awsyd/overview
